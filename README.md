@@ -1,11 +1,11 @@
-# 🏠 Nivora — Home Away From Home
+ Nivora — Home Away From Home
 
 > **AI-Powered Student Accommodation & Discovery Platform**  
 > Helping college students discover verified PGs, hostels, and shared flats near major universities with authentic peer reviews and interactive maps.
 
 ---
 
-## ✨ Features
+# Features
 
 - 🔍 **Smart College & Area Search**: Auto-suggests major colleges (DTU, BPIT, MSIT, VIPS, Amity, JIIT, NSUT, etc.) and auto-populates pincodes.
 - 🏷️ **Category & Type Filters**: Quickly filter between **PGs**, **Hostels**, **Flats**, and all stays.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+# Technology Stack
 
 | Layer | Technology |
 |---|---|
@@ -31,7 +31,7 @@
 
 ---
 
-## 📁 Project Structure
+# Project Structure
 
 ```text
 NIVORA/
@@ -75,7 +75,7 @@ NIVORA/
 
 ---
 
-## 🚀 Getting Started
+# Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (version 18 or higher recommended)
@@ -112,7 +112,7 @@ NIVORA/
 
 ---
 
-## 👥 Meet the Team
+# Meet the Team
 
 - **Ayush Kumar** — *Team Leader & Tech Specialist*
 - **Aanchal Chaudhary** — *Tech Specialist*
