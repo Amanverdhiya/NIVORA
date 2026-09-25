@@ -9,6 +9,8 @@ import {
   SheetContent,
   SheetTrigger,
   SheetClose,
+  SheetTitle,
+  SheetDescription,
 } from '@/components/ui/sheet';
 
 export default function Header() {
@@ -51,6 +53,8 @@ export default function Header() {
               </Button>
             </SheetTrigger>
             <SheetContent side="right">
+              <SheetTitle className="sr-only">Navigation Menu</SheetTitle>
+              <SheetDescription className="sr-only">Nivora navigation links</SheetDescription>
               <div className="flex flex-col gap-4 p-4">
                 <Link to="/">
                   <SheetClose asChild>
